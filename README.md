@@ -1,4 +1,4 @@
-# Hex and Base64 TypedArray toString options
+# Hex, Base64, Base32 TypedArray toEncodedString/fromEncodedString
 
 ## The Problem
 
