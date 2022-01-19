@@ -33,3 +33,7 @@ const u8 = Uint8Array.fromEncodedString('abcdef', 'hex'); // 171, 205, 239
 
 console.log(Uint8Array.from([171, 205, 239]).toEncodedString('hex')); // abcdef
 ```
+
+## Goal
+
+Eliminate need to use runtime-specific APIs for common functions.
